@@ -1,0 +1,7 @@
+Check title
+
+Open http://localhost:3000/
+Go to example page 
+
+Expect
+Title should be visible
